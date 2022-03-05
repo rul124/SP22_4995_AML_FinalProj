@@ -1,4 +1,4 @@
-# SP22_4995_AML_FinalProj
+# Spring 2022 4995 AML Final Project
 2022 Spring Applied Machine Learning (COMS 4995) Final Project
 
 Daoxing Zhang (dz2479)\
