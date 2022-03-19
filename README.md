@@ -8,7 +8,7 @@ Ruoxi Liu (rl3155)\
 Ziyu Fang(zf2253)
 
 ## Data Set Background
-This is a data set from kaggel.com ([online-shoppers-intention](https://www.kaggle.com/roshansharma/online-shopper-s-intention)). This data set contains some customers’ behavioral information when visiting online shopping websites and also the results whether they purchased something or not. There are 10 numerical and 8 categorical features in this dataset which has about 1.2k samples. 
+This is a data set from kaggel.com ([online-shoppers-intention](https://www.kaggle.com/roshansharma/online-shopper-s-intention)). This data set contains some customers’ behavioral information when visiting online shopping websites and also the results whether they purchased something or not. There are 10 numerical and 8 categorical features in this dataset which has about 12k samples. 
 ## Data Set Description
 “Revenue” is what we will make a prediction on, which represents whether revenue will be generated or not based on all other features. In this data set, there are types of pages visited by the users, time and behaviors visitors had during the session. "Bounce Rate", "Exit Rate" and "Page Value" of the shopping website are also included. Time features can be found as well, such as the "Special Day" and “Weekend”. 
 Overall, it is a data set with comprehensive information about users and websites. All those characteristics, features and indices are helpful enough to be filtered out as useful tools to analyze users’ behaviors and future tendencies. 
